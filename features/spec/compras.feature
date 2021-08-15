@@ -5,8 +5,8 @@ Funcionalidade: Compras no Ecommerce Fake
     Quero adicionar produtos no carrinho
     Para ele possa fazer compras dn Ecommerce 
 
-    Contexto:
-    que esteja na tela inicial para compras
+Contexto:
+    Dado que esteja na tela inicial para compras
       
     @adicionar_produto
     Cenário: clico em Add to Cart no produto       
